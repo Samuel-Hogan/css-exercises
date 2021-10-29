@@ -1,0 +1,12 @@
+.click-btn1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.click-btn2 {
+    background-color: rgb(255, 255, 0);
+}
+.click-btn1,
+.click-btn2 {
+    font-size: 28px;
+    font-style: helvetica,"times new roman",sans-serif;
+}
